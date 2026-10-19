@@ -38,8 +38,8 @@
    - اذهب إلى **Settings** ⚙️.
    - من القائمة الجانبية اختر **Pages**.
    - تحت قسم **Build and deployment**، اختر الفرع **main** أو **master** واضغط **Save**.
-7. انتظر دقيقة واحدة، وسيعطيك GitHub رابط موقعك المباشر مجاناً:
-   `https://<your-username>.github.io/<repository-name>/`
+7. رابط موقعك المباشر المنشور حالياً:
+   👉 **https://hima26102011-prog.github.io/omar-zeyad/**
 
 ---
 
